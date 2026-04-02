@@ -7,3 +7,7 @@ PCB - next version
 Footprint of Connectors?
 Move VR pots out slightly
 Add jumper to disconnect controller from supply lines if usb 
+
+
+Known Issue:
+Cannot download code to mcu if on shield. Disconnect R6 and remove EN jumper 
