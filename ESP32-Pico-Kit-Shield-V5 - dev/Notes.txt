@@ -1,1 +1,6 @@
-Cannot download code to mcu if on shield. Disconnect R6 and remove EN jumper 
+Changed from V4
+Issue: Cannot download code to mcu if on shield. Disconnected R6 and remove EN jumper 
+Removed some unusable/reserved GPIO pins - thus reducing connectors
+
+To Do:
+Check pad sizes
